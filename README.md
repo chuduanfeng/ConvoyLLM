@@ -1,4 +1,5 @@
 # ConvoyLLM: Dynamic Multi-Lane Convoy Control Using LLMs
+<<<<<<< HEAD
 
 ## [Paper](https://arxiv.org/abs/2502.17529) & [Project Page](https://he-zhican.github.io/ConvoyLLM)
 This is the official implementation of the paper ConvoyLLM: Dynamic Multi-Lane Convoy Control Using LLMs.
@@ -74,3 +75,5 @@ If you have any questions, please contact Zhican He via email (hezhican@whut.edu
 ```
 # License
 This repository is released under the Apache 2.0 license.
+=======
+>>>>>>> 48058c5c3899599df1ca9c04cb548c03524454f0
